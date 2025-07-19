@@ -1,36 +1,20 @@
 # 🚀 Anurag Kumar
 
-### Cloud Native Innovator | DevOps & Backend Expert | Open Source Contributor
-
-> *Designing resilient systems, automating the world, and building the future—one PR at a time.*
-
-## 👤 About Me
-
-- 🚀 **DevOps Engineer** specializing in cloud-native architecture, CI/CD, automation, and backend development.
-- ⚡ **Always Learning:** Obsessed with Distributed Systems, Observability, Secure Deployments, and AI-driven DevOps.
-- 🎯 **Hands-on:** From Kubernetes to GitOps, from Docker containers to scalable microservices.
-- 🔎 *Ask Anything:* Linux, Docker, K8s, GitHub Actions, Helm, MongoDB, Cloud, CI/CD, and automation pipelines.
-- 🌱 *Actively working on:* Cloud-native frameworks, automation pipelines, and deep-dive data structures.
-- 📫 **Reach Me:** anuragrko42004@gmail.com
-- 😄 *Fun Fact:* I debug in my dreams and rarely miss a deployment window.
-
-## ⚙️ Tech Stack
+#### Cloud Native Architect | DevOps Engineer | CI/CD Enthusiast | OSS Advocate
 
 
   
 
 
-### 🛠 Key Technologies
+## 🌟 About Me
 
-- **Cloud/Infra:** AWS, GCP, Azure, Linux (Ubuntu, RedHat, Kali)
-- **Containers/Orchestration:** Docker, Kubernetes, Helm
-- **Automation:** Terraform, Ansible
-- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
-- **Monitoring/Observability:** Prometheus, Grafana, ELK, OpenTelemetry
-- **Programming:** Go, Python, Node.js, C, C++, Bash
-- **Databases:** MongoDB, PostgreSQL, Redis
+- 🛠 **DevOps & Cloud-Native Specialist:** Architecting distributed, observable, and secure systems.
+- 🧑‍💻 **Backend & Infra Developer:** Microservices, API design, scalable backends.
+- 🌐 **Obsessed With:** Kubernetes, GitOps, Automation, AI-driven Infrastructure, Security, Observability.
+- 📫 **Contact:** anuragrko42004@gmail.com
+- 😴 **Fun Fact:** Logs tell my fortune.
 
-## 🌟 Stats & Activity
+## 🎨 Techstack & Tooling
 
 
   
@@ -38,41 +22,53 @@
   
   
   
-
-
-## 🧩 Featured Projects
-
-| Project | Description | Stack |
-| ------- | ----------- | ----- |
-| [Sign Language Detector](https://github.com/Anurag-xo/sign-language-detection) | Real-time sign language recognition using computer vision and deep learning. Live detection, training, and deployment. | Python, OpenCV, TensorFlow, Streamlit |
-| [Blog-web](https://github.com/Anurag-xo/Blog-web) | Full-stack blogging platform with automated CI/CD, microservices architecture, containerization, cloud deployment, and Infrastructure as Code. | Node.js, MongoDB, Docker, K8s, GitHub Actions |
-| xCloudOps | Multi-cloud automation toolkit for rapid, reliable deployments—custom infra abstraction layer. | Go, Terraform, Cloud SDKs |
-| K8sGuard | Universal monitoring and auto-healing for Kubernetes clusters, Prometheus-based alerting. | Python, Prometheus, Grafana, K8s |
-
-## ⛵ Other Repositories
-
-- Kubernetes deployments & Helm charts for microservices
-- Docker builds for diverse back-end services
-- Automation scripts for cloud resource provisioning and teardown
-- Infrastructure libraries and observability dashboards
-
-## 🧭 Connect With Me
-
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
   
 
 
-## 🖥️ Terminal Corner
+## 📈 Activity & Insights
+
+| ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anurag-xo&theme=tokyo-night&custom_title=My+Contribution+Graph="center">
+  
+    
+  
+  
+  
+  
+  
+  
+
+
+## 🏆 Live Activity Badges
+
+- ![Commits Badge](https://badgen.net/github/commits/Anurag-xo/Blog-web/main[PRs Badge](https://badgen.net/github/prs/Anurag-xo/Blog-web?icon=github&color](https://badgen.net/github/open-issues/Anurag-xo/Blog-web?icon=github&color=red](https://img.shields.io/github/last-commit/Anurag-xo/Blog-web?style=flat-square&color Featured Projects
+
+| 🚩 Project | Description | Links & Stack |
+|---|---|---|
+| **Sign Language Detector** | Real-time computer vision for sign language recognition. | [Repo](https://github.com/Anurag-xo/sign-language-detection)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo[OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencvBlog-web** | DevOps-first blogging platform: microservices, CI/CD, K8s native. | [Repo](https://github.com/Anurag-xo/Blog-web)  ![Node.js](https://img.shields.io/badge/Node.js-46483a?style=for-the-badge&logo=nodedotjs&logoColorimg.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white Seamless multi-cloud automation for rapid deployment. | [Repo Pending]  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=[Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white Proactive K8s cluster monitoring & auto-healing stack. | [Repo Pending]  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes[Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus&logoColor️ Terminal Dashboard
 
 ```bash
 > whoami
-Anurag Kumar — Infra Whisperer & Code Bender 🧙‍♂️
+Anurag Kumar — Cloud-Native DevOps Wizard 🧙‍♂️
+
+> activity
+2025-07-18 | ⭐ Open sourced new K8s Observability tool
+2025-07-17 | 📦 Shipped new CI pipeline for Blog-web
+2025-07-16 | 🔒 Hardened container security across all staging environments
 
 > pwd
-/home/anurag/cloud/devops/mainframe
+/home/anurag/cloud-native/infra
 
 > tree -L 2
 .
@@ -86,14 +82,25 @@ Anurag Kumar — Infra Whisperer & Code Bender 🧙‍♂️
 ├── ☁️  Cloud Deployments
 └── 📖 README.md
 ```
+
+## 🌐 Connect & Collaborate
+
+
+  
+  
+  
+  
+
+
+### ✨ Modern Features
+
+- **Animated headers and dynamic stats**
+- **Real-time activity tracking with up-to-date badges**
+- **Sleek, icon-driven tech stack display**
+- **Clickable UI badges for all social & project links**
+- **Terminal-inspired logs for a developer’s vibe**
+- **Advanced, visually appealing logos & trophies**
+- **Night/light mode responsive visual assets**
+- **Contribution heatmaps & activity charts**
+
 > _"Automate the boring. Debug the impossible. Share the journey."_
-
-## 🏆 Achievements & Dynamic Features
-
-- **Dynamic Badges:** GitHub actions/build/CI status, auto-updating stats, real-time contribution graphs.
-- **Animated Headers:** Typing SVG banners, custom themes for dark/light mode.
-- **Showcase Table:** Key projects, stack, and fast links up front.
-- **Terminal Logs:** Linux-flavored “whoami”, “pwd”, and repo structure for flavor.
-- **Latest Tech:** Project repos using multi-cloud and microservices, robust monitoring, and production-grade pipelines.
-
-*Thanks for visiting! Drop a ⭐ if you like the journey, and let's automate something awesome together.*
