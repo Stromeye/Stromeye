@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# make it much much  much better and give me the final readme.md file so that i can copy it and paste it
-
-```markdown
 <!--
   Anurag Kumar – Stunning README Template
   Copy, paste, and rule your GitHub!
@@ -173,5 +168,4 @@ Anurag Kumar — Cloud-Native Automator \& SRE Sensei 🧙‍♂️
 - Live CI/CD, followers, and repo star badges
 
 > _“Automate the boring. Debug the impossible. Inspire the next. Let’s build legendary infra—together!”_ 🚀
-```
 
