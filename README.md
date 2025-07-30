@@ -1,42 +1,76 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" alt="Anurag DevOps" width="150" />
+  <!-- Custom DevOps Banner -->
+  <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/devops-banner.gif" alt="Anurag DevOps Banner" width="600" />
   <h1>👋 Yo, I'm Anurag! The Cloud Conjurer 🧙‍♂️</h1>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=500&lines=DevOps+Wizard;Scaling+Clouds+Like+a+Boss;My+Pipeline+Never+Breaks;...Except+at+3+AM">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=500&lines=DevOps+Wizard;Scaling+Clouds+Like+a+Boss;My+Pipeline+Never+Breaks;...Except+at+3+AM" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=800&color=00FF88&center=true&vCenter=true&random=false&width=550&lines=DevOps+Maestro;Scaling+Clouds+to+Infinity;Pipelines+Smoother+Than+RHCP;YAML+is+My+Love+Poem">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=800&color=00FF88&center=true&vCenter=true&random=false&width=550&lines=DevOps+Maestro;Scaling+Clouds+to+Infinity;Pipelines+Smoother+Than+RHCP;YAML+is+My+Love+Poem" alt="Typing SVG" />
   </picture>
   
-  <p>🌩️ Taming AWS, Kubernetes, and Linux like a pro 🐧 | ⚙️ Automating everything except my playlist 🎶 | 😎 "kubectl apply -f epic.yaml" is my mantra</p>
-  <p><b>Tagline:</b> "I deploy bugs to prod and call it a feature! 🚀"</p>
+  <p>🌩️ Orchestrating AWS, Kubernetes, and Linux like a symphony 🎻 | ⚙️ Automating everything except my swim strokes 🏊 | 😎 "kubectl get pods -o awesome" is my vibe</p>
+  <p><b>Tagline:</b> "I deploy bugs to prod and call it chaos engineering! 😈"</p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+<!-- ASCII Divider -->
+<div align="center">
+  <pre>
+  ╔═══════════════════════╗
+  ║   Anurag-xo: DevOps   ║
+  ║   Cloud King 🐳       ║
+  ╚═══════════════════════╝
+  </pre>
+</div>
 
 <h3 align="center">🚀 My DevOps Superpowers</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,python,java,nodejs,bash,linux,ansible,grafana" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,python,java,nodejs,bash,linux,ansible,grafana,prometheus,azure" alt="Tech Stack" />
+  <br />
+  <!-- Skill Progress Bars -->
+  <p>
+    <img src="https://img.shields.io/badge/AWS-80%25-%23FF9900?style=flat-square&logo=amazonaws" alt="AWS" />
+    <img src="https://img.shields.io/badge/Kubernetes-70%25-%23326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Terraform-90%25-%23623CE4?style=flat-square&logo=terraform" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Linux-85%25-%23FCC624?style=flat-square&logo=linux" alt="Linux" />
+  </p>
 </div>
 <p align="center">
-  <b>Meme of the Day:</b> "Why did the pod crash? Too many containers partying in the cluster! 🐳🎉"
+  <b>Meme of the Day:</b> "When your pod is stuck in CrashLoopBackOff but you just vibe to RHCP! 🎸😅"
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+<!-- ASCII Divider -->
+<div align="center">
+  <pre>
+  ╔═══════════════════════╗
+  ║   Code & Conquer 💾   ║
+  ╚═══════════════════════╝
+  </pre>
+</div>
 
 <h3 align="center">📊 Competitive Coding & Cloud Chaos Stats</h3>
 <p align="center">
   <a href="https://leetcode.com/u/Anurag8081/" target="_blank" rel="noopener noreferrer">
-    <img height="305em" src="https://leetcard.jacoblin.cool/Anurag8081?theme=dark&font=Roboto&ext=contest&border=0&radius=13" alt="LeetCode Stats" />
+    <img height="305em" src="https://leetcard.jacoblin.cool/Anurag8081?theme=dracula&font=JetBrains%20Mono&ext=contest&border=0&radius=13" alt="LeetCode Stats" />
   </a>
 </p>
 <p align="center">
-  <b>Tech Joke:</b> "Why do DevOps engineers love Linux? Because 'sudo rm -rf /' feels like therapy! 😈"
+  <b>Tech Joke:</b> "Why did the DevOps engineer SSH into prod? To whisper 'I’m the root now' to the server! 😎"
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-
-<h3 align="center">🏆 GitHub Glory & DevOps Deeds</h3>
+<!-- ASCII Divider -->
 <div align="center">
+  <pre>
+  ╔═══════════════════════╗
+  ║   GitHub Glory 🏆     ║
+  ╚═══════════════════════╝
+  </pre>
+</div>
+
+<h3 align="center">🏆 GitHub Trophies & DevOps Deeds</h3>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag-xo&theme=dracula&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-xo&theme=dracula" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-xo&theme=dracula" alt="GitHub Stats" />
@@ -49,24 +83,31 @@
 <p align="center">
   <b>DevOps Flexes:</b>
   <ul>
-    <li>Orchestrated a Kubernetes cluster so smooth, it sang "Can't Stop" by RHCP 🎸</li>
-    <li>Reduced AWS bills by 69%—call me the Cloud Cost Slayer 🥷</li>
-    <li>Wrote a Terraform script that deployed a whole infra before my coffee got cold ☕</li>
+    <li>Orchestrated a Kubernetes cluster so epic, it played "Can’t Stop" on loop 🎶</li>
+    <li>Slashed AWS bills like a cloud samurai—saved 69% and bought more coffee ☕</li>
+    <li>Wrote a Terraform script that deployed an infra faster than my 100m freestyle 🏊</li>
   </ul>
 </p>
 <p align="center">
-  <b>Meme Alert:</b> "When you `git push --force` and the team sends you to /dev/null! 😱"
+  <b>Meme Alert:</b> "When you `docker run --rm` your regrets but the logs keep haunting you! 👻"
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+<!-- ASCII Divider -->
+<div align="center">
+  <pre>
+  ╔═══════════════════════╗
+  ║   Life Beyond Code 🌊 ║
+  ╚═══════════════════════╝
+  </pre>
+</div>
 
 <h3 align="center">🎸 Beyond the Terminal</h3>
 <p align="center">
-  When I’m not debugging YAMLs or scaling pods, I’m:
+  When I’m not wrestling YAMLs or scaling pods, I’m:
   <ul>
-    <li>Jamming to Red Hot Chili Peppers 🎶</li>
-    <li>Swimming like I’m racing in the Olympics 🏊</li>
-    <li>Reading books to debug my brain 📚</li>
+    <li>Jamming to Red Hot Chili Peppers like it’s 2002 🎸</li>
+    <li>Swimming laps faster than a CI/CD pipeline 🏊</li>
+    <li>Reading books to debug my soul 📚</li>
   </ul>
 </p>
 <p align="center">
@@ -78,25 +119,39 @@
   </a>
 </p>
 <p align="center">
-  <b>Joke of the Day:</b> "Why did the DevOps engineer quit? The pipeline was YAML-lous! 😜"
+  <b>Joke of the Day:</b> "Why did the DevOps engineer love Ansible? Because it’s the only one who listens to my playbooks! 😜"
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+<!-- ASCII Divider -->
+<div align="center">
+  <pre>
+  ╔═══════════════════════╗
+  ║   Try My CLI Flex 💻  ║
+  ╚═══════════════════════╝
+  </pre>
+</div>
 
 <h3 align="center">🤖 Try My DevOps Flex Command!</h3>
 <p align="center">
   Open your terminal and run:
   <code>npx anurag-xo</code>
   <br />
-  (Spoiler: It’ll print “Anurag is the DevOps GOAT!” with ASCII art of a Kubernetes pod 🐳)
+  (Spoiler: It’ll print “Anurag is the DevOps GOAT!” with ASCII art of a Linux penguin 🐧)
 </p>
 <p align="center">
   <a href="https://github.com/Anurag-xo/Anurag-xo" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Kubernetes Pod" width="200" />
+    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/linux-penguin.gif" alt="Linux Penguin" width="200" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+<!-- ASCII Divider -->
+<div align="center">
+  <pre>
+  ╔═══════════════════════╗
+  ║   Connect with Me 📬  ║
+  ╚═══════════════════════╝
+  </pre>
+</div>
 
 <h3 align="center">📬 Connect with the Cloud King</h3>
 <p align="center">
@@ -111,7 +166,7 @@
   </a>
 </p>
 <p align="center">
-  <b>Final Meme:</b> "When AWS sends you a $10k bill, but you `terraform destroy` your sanity! 😭"
+  <b>Final Meme:</b> "When AWS sends a $10k bill, but you `terraform destroy` your tears! 😭"
 </p>
 
 <img src="https://profile-counter.glitch.me/Anurag-xo/count.svg" alt="Profile Views" />
