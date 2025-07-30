@@ -1,175 +1,117 @@
 <div align="center">
-  <!-- Animated 3D Header -->
-  <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/space-banner.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" alt="Anurag DevOps" width="150" />
+  <h1>👋 Yo, I'm Anurag! The Cloud Conjurer 🧙‍♂️</h1>
   
-  <!-- Floating Tech Orb Animation -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/tech-orb.gif" width="150px"/>
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=500&lines=DevOps+Wizard;Scaling+Clouds+Like+a+Boss;My+Pipeline+Never+Breaks;...Except+at+3+AM">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=500&lines=DevOps+Wizard;Scaling+Clouds+Like+a+Boss;My+Pipeline+Never+Breaks;...Except+at+3+AM" alt="Typing SVG" />
+  </picture>
   
-  <!-- Holographic Typing Effect -->
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=4000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&width=580&lines=ANURAG+SINGH;CLOUD+NATIVE+ENGINEER;FULL-STACK+ARCHITECT;DEVOPS+SHAPESHIFTER;TECHNOLOGY+EVANGELIST">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=4000&pause=500&color=0066FF&background=FFFFFF00&center=true&vCenter=true&width=580&lines=ANURAG+SINGH;CLOUD+NATIVE+ENGINEER;FULL-STACK+ARCHITECT;DEVOPS+SHAPESHIFTER;TECHNOLOGY+EVANGELIST">
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=4000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&width=580&lines=ANURAG+SINGH;CLOUD+NATIVE+ENGINEER;FULL-STACK+ARCHITECT;DEVOPS+SHAPESHIFTER;TECHNOLOGY+EVANGELIST" alt="Header"/>
-    </picture>
-  </div>
-  
-  <!-- Interactive Tech Galaxy -->
-  <div align="center">
-    <a href="https://stackoverflow.com/users/yourid">
-      <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/tech-galaxy.gif" width="80%"/>
-    </a>
-  </div>
+  <p>🌩️ Taming AWS, Kubernetes, and Linux like a pro 🐧 | ⚙️ Automating everything except my playlist 🎶 | 😎 "kubectl apply -f epic.yaml" is my mantra</p>
+  <p><b>Tagline:</b> "I deploy bugs to prod and call it a feature! 🚀"</p>
 </div>
 
-<!-- Neon Divider -->
-<img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/neon-divider.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-### 🪐 **Tech Universe**
-<!-- Interactive 3D Tech Stack -->
+<h3 align="center">🚀 My DevOps Superpowers</h3>
 <div align="center">
-  <a href="https://github.com/Anurag-xo?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/3d-tech-stack.gif" width="90%"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,python,java,nodejs,bash,linux,ansible,grafana" alt="Tech Stack" />
 </div>
+<p align="center">
+  <b>Meme of the Day:</b> "Why did the pod crash? Too many containers partying in the cluster! 🐳🎉"
+</p>
 
-<!-- Floating Tech Cards -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <div style="background: linear-gradient(145deg, #0d1117, #1a2238); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.3); width: 280px; transform: rotate3d(1,1,0,10deg); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate3d(0,0,0,0deg) scale(1.05)'" onmouseout="this.style.transform='rotate3d(1,1,0,10deg)'">
-    <h3 style="color: #00F7FF; margin-top: 0;">Cloud Native</h3>
-    <p style="color: #a2d9ff;">Kubernetes • Docker • Helm • Istio • Prometheus • Terraform</p>
-  </div>
-  
-  <div style="background: linear-gradient(145deg, #0d1117, #1a2238); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 119, 255, 0.3); width: 280px; transform: rotate3d(1,1,0,-10deg); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate3d(0,0,0,0deg) scale(1.05)'" onmouseout="this.style.transform='rotate3d(1,1,0,-10deg)'">
-    <h3 style="color: #00F7FF; margin-top: 0;">Full Stack</h3>
-    <p style="color: #a2d9ff;">React • Next.js • Node • GraphQL • WebAssembly • Postgres</p>
-  </div>
-  
-  <div style="background: linear-gradient(145deg, #0d1117, #1a2238); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 0, 247, 0.3); width: 280px; transform: rotate3d(1,1,0,5deg); transition: all 0.5s ease;" onmouseover="this.style.transform='rotate3d(0,0,0,0deg) scale(1.05)'" onmouseout="this.style.transform='rotate3d(1,1,0,5deg)'">
-    <h3 style="color: #00F7FF; margin-top: 0;">DevOps</h3>
-    <p style="color: #a2d9ff;">ArgoCD • GitHub Actions • Ansible • Jenkins • ELK • Grafana</p>
-  </div>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-<!-- Holographic Divider -->
-<img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/holo-divider.gif" width="100%"/>
-
-### 🌌 **Code Constellation**
-<!-- Interactive GitHub Stats -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-  <!-- 3D Wrapped Stats -->
-  <div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 20px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 0 25px rgba(0, 247, 255, 0.2);">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
-    </picture>
-  </div>
-  
-  <!-- Language Radar -->
-  <div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 20px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 0 25px rgba(0, 119, 255, 0.2);">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&langs_count=8">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=default&bg_color=ffffff&hide_border=true&langs_count=8">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&langs_count=8" width="100%"/>
-    </picture>
-  </div>
-  
-  <!-- Contribution Galaxy -->
-  <div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 20px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 0 25px rgba(255, 0, 247, 0.2);">
-    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
-    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
-  </div>
-</div>
-
-<!-- Binary Rain Divider -->
-<img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/binary-rain.gif" width="100%"/>
-
-### 🚀 **Featured Projects**
-<!-- Interactive Project Cards -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
-  <!-- Project 1 -->
-  <div style="background: linear-gradient(145deg, #0d1117, #1a2238); padding: 25px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0, 247, 255, 0.2); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)';this.style.boxShadow='0 15px 35px rgba(0, 247, 255, 0.4)'" onmouseout="this.style.transform='none';this.style.boxShadow='0 10px 30px rgba(0, 247, 255, 0.2)'">
-    <h3 style="color: #00F7FF; margin-top: 0;">Cloud Native Platform</h3>
-    <p style="color: #a2d9ff;">Production-grade Kubernetes platform with GitOps workflows</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
-      <span style="background: rgba(0, 247, 255, 0.1); color: #00F7FF; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Go</span>
-      <span style="background: rgba(0, 119, 255, 0.1); color: #a2d9ff; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Kubernetes</span>
-      <span style="background: rgba(255, 0, 247, 0.1); color: #ffa2f7; padding: 3px 10px; border-radius: 20px; font-size: 12px;">ArgoCD</span>
-    </div>
-  </div>
-  
-  <!-- Project 2 -->
-  <div style="background: linear-gradient(145deg, #0d1117, #1a2238); padding: 25px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0, 119, 255, 0.2); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)';this.style.boxShadow='0 15px 35px rgba(0, 119, 255, 0.4)'" onmouseout="this.style.transform='none';this.style.boxShadow='0 10px 30px rgba(0, 119, 255, 0.2)'">
-    <h3 style="color: #00F7FF; margin-top: 0;">Microservices Framework</h3>
-    <p style="color: #a2d9ff;">TypeScript framework for building distributed systems</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
-      <span style="background: rgba(0, 247, 255, 0.1); color: #00F7FF; padding: 3px 10px; border-radius: 20px; font-size: 12px;">TypeScript</span>
-      <span style="background: rgba(0, 119, 255, 0.1); color: #a2d9ff; padding: 3px 10px; border-radius: 20px; font-size: 12px;">NestJS</span>
-      <span style="background: rgba(255, 0, 247, 0.1); color: #ffa2f7; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Kafka</span>
-    </div>
-  </div>
-  
-  <!-- Project 3 -->
-  <div style="background: linear-gradient(145deg, #0d1117, #1a2238); padding: 25px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(255, 0, 247, 0.2); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)';this.style.boxShadow='0 15px 35px rgba(255, 0, 247, 0.4)'" onmouseout="this.style.transform='none';this.style.boxShadow='0 10px 30px rgba(255, 0, 247, 0.2)'">
-    <h3 style="color: #00F7FF; margin-top: 0;">DevOps Toolkit</h3>
-    <p style="color: #a2d9ff;">Collection of automation scripts and infrastructure templates</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
-      <span style="background: rgba(0, 247, 255, 0.1); color: #00F7FF; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Python</span>
-      <span style="background: rgba(0, 119, 255, 0.1); color: #a2d9ff; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Terraform</span>
-      <span style="background: rgba(255, 0, 247, 0.1); color: #ffa2f7; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Ansible</span>
-    </div>
-  </div>
-</div>
-
-<!-- Particle Divider -->
-<img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/particle-divider.gif" width="100%"/>
-
-### 🌠 **Connect With Me**
-<!-- Interactive Social Links -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/yourprofile" style="text-decoration: none;">
-    <div style="background: linear-gradient(145deg, #0d1117, #0a66c2); padding: 12px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(10, 102, 194, 0.4); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 8px 20px rgba(10, 102, 194, 0.6)'" onmouseout="this.style.transform='none';this.style.boxShadow='0 5px 15px rgba(10, 102, 194, 0.4)'">
-      <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/linkedin-icon.png" width="24px"/>
-      <span style="color: white; font-weight: bold;">LinkedIn</span>
-    </div>
+<h3 align="center">📊 Competitive Coding & Cloud Chaos Stats</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/Anurag8081/" target="_blank" rel="noopener noreferrer">
+    <img height="305em" src="https://leetcard.jacoblin.cool/Anurag8081?theme=dark&font=Roboto&ext=contest&border=0&radius=13" alt="LeetCode Stats" />
   </a>
-  
-  <!-- Twitter -->
-  <a href="https://twitter.com/yourhandle" style="text-decoration: none;">
-    <div style="background: linear-gradient(145deg, #0d1117, #1da1f2); padding: 12px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(29, 161, 242, 0.4); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 8px 20px rgba(29, 161, 242, 0.6)'" onmouseout="this.style.transform='none';this.style.boxShadow='0 5px 15px rgba(29, 161, 242, 0.4)'">
-      <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/twitter-icon.png" width="24px"/>
-      <span style="color: white; font-weight: bold;">Twitter</span>
-    </div>
-  </a>
-  
-  <!-- Portfolio -->
-  <a href="https://yourwebsite.com" style="text-decoration: none;">
-    <div style="background: linear-gradient(145deg, #0d1117, #ff4088); padding: 12px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(255, 64, 136, 0.4); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 8px 20px rgba(255, 64, 136, 0.6)'" onmouseout="this.style.transform='none';this.style.boxShadow='0 5px 15px rgba(255, 64, 136, 0.4)'">
-      <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/portfolio-icon.png" width="24px"/>
-      <span style="color: white; font-weight: bold;">Portfolio</span>
-    </div>
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:your@email.com" style="text-decoration: none;">
-    <div style="background: linear-gradient(145deg, #0d1117, #ea4335); padding: 12px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(234, 67, 53, 0.4); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 8px 20px rgba(234, 67, 53, 0.6)'" onmouseout="this.style.transform='none';this.style.boxShadow='0 5px 15px rgba(234, 67, 53, 0.4)'">
-      <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/email-icon.png" width="24px"/>
-      <span style="color: white; font-weight: bold;">Email</span>
-    </div>
-  </a>
-</div>
+</p>
+<p align="center">
+  <b>Tech Joke:</b> "Why do DevOps engineers love Linux? Because 'sudo rm -rf /' feels like therapy! 😈"
+</p>
 
-<!-- Animated Footer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+<h3 align="center">🏆 GitHub Glory & DevOps Deeds</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/coding-fox.gif" width="150px"/>
-  <p style="color: #a2d9ff; font-size: 14px; margin-top: 10px;">"First, solve the problem. Then, write the code." - John Johnson</p>
-  
-  <!-- Visitor Counter -->
-  <div style="margin-top: 30px;">
-    <img src="https://profile-counter.glitch.me/Anurag-xo/count.svg" alt="Visitor Count"/>
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-xo&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-xo&theme=dracula" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=dracula" alt="Top Languages" />
+  </picture>
 </div>
+<p align="center">
+  <b>DevOps Flexes:</b>
+  <ul>
+    <li>Orchestrated a Kubernetes cluster so smooth, it sang "Can't Stop" by RHCP 🎸</li>
+    <li>Reduced AWS bills by 69%—call me the Cloud Cost Slayer 🥷</li>
+    <li>Wrote a Terraform script that deployed a whole infra before my coffee got cold ☕</li>
+  </ul>
+</p>
+<p align="center">
+  <b>Meme Alert:</b> "When you `git push --force` and the team sends you to /dev/null! 😱"
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+<h3 align="center">🎸 Beyond the Terminal</h3>
+<p align="center">
+  When I’m not debugging YAMLs or scaling pods, I’m:
+  <ul>
+    <li>Jamming to Red Hot Chili Peppers 🎶</li>
+    <li>Swimming like I’m racing in the Olympics 🏊</li>
+    <li>Reading books to debug my brain 📚</li>
+  </ul>
+</p>
+<p align="center">
+  <a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx?si=5b7b5f7b1b2b4b2b" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played-readme.vercel.app/api?track=3ZOEytgrvLwQaqXreDs2Jx&count=1&unique=true" />
+      <img src="https://spotify-recently-played-readme.vercel.app/api?track=3ZOEytgrvLwQaqXreDs2Jx&count=1&unique=true" alt="Spotify" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <b>Joke of the Day:</b> "Why did the DevOps engineer quit? The pipeline was YAML-lous! 😜"
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+<h3 align="center">🤖 Try My DevOps Flex Command!</h3>
+<p align="center">
+  Open your terminal and run:
+  <code>npx anurag-xo</code>
+  <br />
+  (Spoiler: It’ll print “Anurag is the DevOps GOAT!” with ASCII art of a Kubernetes pod 🐳)
+</p>
+<p align="center">
+  <a href="https://github.com/Anurag-xo/Anurag-xo" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Kubernetes Pod" width="200" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+<h3 align="center">📬 Connect with the Cloud King</h3>
+<p align="center">
+  <a href="https://x.com/anuragxo1221" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/anurag-kumar-b1a790249/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="http://notrlyanurag.duckdns.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="Blog" />
+  </a>
+</p>
+<p align="center">
+  <b>Final Meme:</b> "When AWS sends you a $10k bill, but you `terraform destroy` your sanity! 😭"
+</p>
+
+<img src="https://profile-counter.glitch.me/Anurag-xo/count.svg" alt="Profile Views" />
