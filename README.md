@@ -1,25 +1,25 @@
 <div align="center">
   <!-- Custom DevOps Banner -->
-  <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/devops-banner.gif" alt="Anurag DevOps Banner" width="700" />
-  <h1>🚀 Anurag Kumar - The Cloud Conjurer 🧙‍♂️</h1>
+  <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/devops-banner.gif" alt="Anurag DevOps Banner" width="750" />
+  <h1>🚀 Anurag Kumar - The DevOps GOAT 🐐</h1>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=800&color=FF4D4F&center=true&vCenter=true&random=false&width=600&lines=DevOps+Rockstar+%7C+Code+Alchemist;Orchestrating+Clouds+Like+RHCP;Pipelines+Faster+Than+My+Freestyle;Hacking+CTFs+Like+a+Ninja+%F0%9F%94%92">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&pause=800&color=FF4D4F&center=true&vCenter=true&random=false&width=600&lines=DevOps+Rockstar+%7C+Code+Alchemist;Orchestrating+Clouds+Like+RHCP;Pipelines+Faster+Than+My+Freestyle;Hacking+CTFs+Like+a+Ninja+%F0%9F%94%92" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&pause=800&color=FF4D4F&center=true&vCenter=true&random=false&width=650&lines=Cloud+Conjurer+%7C+Code+Samurai;Orchestrating+K8s+Like+RHCP+Hits;Pipelines+Faster+Than+My+Freestyle;Hacking+CTFs+Like+a+Cyber+Ninja+%F0%9F%94%92">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&pause=800&color=FF4D4F&center=true&vCenter=true&random=false&width=650&lines=Cloud+Conjurer+%7C+Code+Samurai;Orchestrating+K8s+Like+RHCP+Hits;Pipelines+Faster+Than+My+Freestyle;Hacking+CTFs+Like+a+Cyber+Ninja+%F0%9F%94%92" alt="Typing SVG" />
   </picture>
   
-  <p>🌩️ Taming AWS, Kubernetes, and Linux like Anthony Kiedis tames the stage 🎸 | ⚙️ Building CI/CD pipelines smoother than my 100m freestyle 🏊 | 🔒 Cybersecurity ninja securing pods tighter than Fort Knox | 😎 "kubectl apply -f prod.yaml" is my anthem</p>
-  <p><b>Tagline:</b> "I deploy chaos to prod and call it a feature! 😈"</p>
+  <p>🌩️ Taming AWS, Kubernetes, and Linux like I’m shredding a guitar solo 🎸 | ⚙️ Building CI/CD pipelines smoother than my 100m freestyle 🏊 | 🔒 Cybersecurity ninja securing clusters tighter than Fort Knox | 😎 "kubectl apply -f prod.yaml" is my power chord</p>
+  <p><b>Tagline:</b> "I deploy chaos to prod and call it a masterpiece! 😈"</p>
   <img src="https://komarev.com/ghpvc/?username=Anurag-xo&label=Profile%20Views&color=FF4D4F&style=flat" alt="Profile Views" />
 </div>
 
 --- 🌌 About Me ---
 
-- 🔭 **Crafting**: Cloud-native apps and bulletproof CI/CD pipelines
+- 🔭 **Crafting**: Cloud-native apps, automation pipelines, and secure systems
 - 🌱 **Exploring**: Distributed systems, observability, and AI-driven DevOps
-- 💬 **Ask Me About**: Kubernetes, Terraform, GitHub Actions, MongoDB, or how to survive an AWS bill scare
+- 💬 **Ask Me About**: Kubernetes, Terraform, GitHub Actions, MongoDB, or surviving a 3 AM outage
 - 📫 **Reach Me**: anuragrko42004@gmail.com
-- ⚡ **Fun Fact**: I debug YAML in my dreams and swim laps in my nightmares 😴🏊
+- ⚡ **Fun Fact**: I debug YAML in my dreams and swim laps to escape AWS bills 😴🏊
 
 --- 🛠️ My Tech Arsenal ---
 
@@ -45,7 +45,7 @@
   </p>
 </div>
 <p align="center">
-  <b>Meme of the Day:</b> "When your pod’s in CrashLoopBackOff but you’re too busy headbanging to RHCP! 🎸😅" <br />
+  <b>Meme of the Day:</b> "When your pod’s stuck in CrashLoopBackOff, but you’re headbanging to RHCP’s 'Can’t Stop'! 🎸😅" <br />
   <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/devops-meme.png" alt="DevOps Meme" width="400" />
 </p>
 
@@ -58,14 +58,14 @@
   </a>
 </p>
 <p align="center">
-  <b>Tech Joke:</b> "Why did I SSH into prod? To whisper 'sudo whoami' and hear 'Cloud King'! 😎"
+  <b>Tech Joke:</b> "Why did I SSH into prod? To whisper 'sudo whoami' and hear 'Cloud GOAT'! 😎"
 </p>
 
 --- 🏆 GitHub Glory ---
 
 <h3 align="center">🏆 GitHub Trophies & DevOps Deeds</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anurag-xo&theme=dracula&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag-xo&theme=dracula&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-xo&theme=dracula" />
@@ -83,14 +83,14 @@
 <p align="center">
   <b>DevOps Flexes:</b>
   <ul>
-    <li>Orchestrated a Kubernetes cluster so dope, it vibed to "Can’t Stop" on loop 🎶</li>
+    <li>Orchestrated a Kubernetes cluster so epic, it jammed to "Can’t Stop" on loop 🎶</li>
     <li>Slashed AWS bills like a cloud samurai—saved 69% and bought a new swim cap 🏊</li>
     <li>Built a CI/CD pipeline faster than my 100m freestyle, no timeouts! ⚡</li>
     <li>Hacked a cybersecurity CTF like a terminal ninja, flags captured! 🔒</li>
   </ul>
 </p>
 <p align="center">
-  <b>Meme Alert:</b> "When you `git push --force` and the team sends you to /dev/null! 😱"
+  <b>Meme Alert:</b> "When you `git push --force` and the team banishes you to /dev/null! 😱"
 </p>
 
 --- 🛠️ Epic Projects ---
@@ -98,14 +98,14 @@
 <h3 align="center">🧰 My Proudest Projects</h3>
 <p align="center">
   <a href="https://github.com/Anurag-xo/sign-language-detection" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Sign_Language_Detector-%F0%9F%A4%9F-blueviolet?style=flat-square" alt="Sign Language Detector" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=sign-language-detection&theme=dracula" alt="Sign Language Detector" />
   </a>
   <a href="https://github.com/Anurag-xo/Blog-web" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Blog_Web-%F0%9F%93%9A-blueviolet?style=flat-square" alt="Blog Web" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=Blog-web&theme=dracula" alt="Blog Web" />
   </a>
 </p>
 <p align="center">
-  <b>Tech Joke:</b> "Why did my Helm chart crash? Too many pods partying in the cluster! 🐳😂"
+  <b>Tech Joke:</b> "Why did my Helm chart crash? Too many pods partying to RHCP in the cluster! 🐳😂"
 </p>
 
 --- 🎸 Life Beyond Code ---
@@ -138,11 +138,11 @@
   Open your terminal and run:
   <code>npx anurag-xo</code>
   <br />
-  (Spoiler: It’ll print “Anurag is the DevOps GOAT!” with ASCII art of a Linux penguin 🐧)
+  (Spoiler: It’ll print “Anurag is the DevOps GOAT!” with ASCII art of a Kubernetes pod 🐳)
 </p>
 <p align="center">
   <a href="https://github.com/Anurag-xo/Anurag-xo" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/linux-penguin.gif" alt="Linux Penguin" width="200" />
+    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/assets/k8s-pod.gif" alt="Kubernetes Pod" width="200" />
   </a>
 </p>
 
