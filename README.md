@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px" />
-  
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /></div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7D2&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Linux+Wizard;Cloud+Native+Explorer;Keep+Shipping,+Keep+Learning">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A0A0A&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Linux+Wizard;Cloud+Native+Explorer;Keep+Shipping,+Keep+Learning">
